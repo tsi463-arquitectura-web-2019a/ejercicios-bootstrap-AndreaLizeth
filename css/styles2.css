@@ -1,0 +1,37 @@
+.main{
+	background-color: #E8E8E7;
+	padding-top: 10px;
+
+}
+
+.img{
+	width: 100%;
+}
+
+.espacio{
+	margin-top:30px;
+	padding: 10px;
+	background-color: #8BCC98;
+}
+
+.parrafo{
+	margin-top: 30px;
+}
+.col-center{
+	background-color: #FFFFFF;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.col-center p{
+	text-indent: 1.5cm;
+	color:#7d7d7d;
+	margin: 0px auto
+}
+
+.col-center h4{
+	margin-bottom: 15px;
+	margin-top: 30px;
+	color:#7d7d7d;
+	font-weight: bold;
+}
